@@ -10,7 +10,7 @@
 - React.js
 - Vite
 - React Router DOM
-- Tailwind CSS
+- CSS
 
 ### 🛠️ Backend:
 - Node.js
